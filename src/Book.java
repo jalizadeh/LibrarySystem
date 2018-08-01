@@ -22,8 +22,8 @@ public class Book implements Serializable{
 
 	@Override
 	public String toString() {
-		return "\nBook: \nisbn=" + isbn + "\ntitle=" + title + 
-				"\nauthor=" + author + "\nprice=" + price ;
+		return "\nisbn: " + isbn + "\ntitle: " + title + 
+				"\nauthor: " + author + "\nprice: " + price ;
 	}
 	
 	

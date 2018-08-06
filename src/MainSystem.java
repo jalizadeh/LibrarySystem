@@ -42,7 +42,7 @@ public class MainSystem {
 				break;
 			
 			default:
-				
+				System.out.println("Entered vlaue is not appropriate. please try again.");
 				break;
 			}
 		}
